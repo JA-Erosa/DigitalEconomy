@@ -13,6 +13,7 @@
 ## MLA in work automation and augmentation
 ## Characteristics of big data and cloud computing
 ## What is Blockchain?
+- Blockchain is basically like a huge data ledger. Meaning it keeps track of data transactions all over the place. It’s most known for its use in cryptocurrency systems since the whole point of it is to have a decentralized transaction record. The main difference with a “normal” database is that the information is managed by blocks, and they can be chained together, so if you want to add data, you just add a block on top of the previous one. So, instead of tables, you have blocks put together.
 ## What is Hyperledger?
 ## Financial transactions
 ## Digital currencies
