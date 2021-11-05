@@ -22,7 +22,7 @@
 #### When do you think the term "financial transaction" was born?(jaque)
 - Disccussion. The answer can be varied but basically transactions have always existed when changes of goods are made.
 
-#### What are some of the benefits of digital currencies? jaque
+#### What are some of the benefits of digital currencies? (jaque)
 - Creation of more efficient payment systems.
 They could bring greater financial inclusion for the users of a state.
 ETC.
