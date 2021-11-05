@@ -33,4 +33,6 @@ Augmentation refers to the idea of boosting our skills with the help of an IA. C
 - [Blockchain Automation Framework](https://blockchain-automation-framework.readthedocs.io/en/latest/introduction.html)
 - [Hyperledger Research](https://www.hyperledger.org/learn/research)
 - [Automatic Relational Data Augmentation for Machine Learning](https://arxiv.org/pdf/2003.09758.pdf)
-- []()
+- [Bitcoin en El Salvador](https://es.digitaltrends.com/tendencias/moneda-digital-dinero-virtual-criptomoneda/)
+- [Central bank digital currencies, cryptocurrencies, and privacy](https://voxeu.org/article/central-bank-digital-currencies-cryptocurrencies-and-privacy)
+- [Why Governments Are Wary of Bitcoin](https://www.investopedia.com/articles/forex/042015/why-governments-are-afraid-bitcoin.asp)
