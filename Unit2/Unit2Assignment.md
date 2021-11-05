@@ -26,6 +26,7 @@ We have recently seen the release of GPT-3 by OpenAI, the most advanced language
 
 
 ## MLA in work automation and augmentation
+Augmentation refers to the idea of boosting our skills with the help of an IA, instead of replacing humans with the IA itself. Think of augmentation as powerful tools that agilize the most tedius process of a task, and let the human to concentrate on the most important aspects of the tasks. Augmentation has been increasing in popularity, among companies and the general public. Examples of these IA augmentation tools are ones that can find inshigtful information among lots of data, and share it to a group the lawyers to decide what to do with that information. A more mainstream example is the Github Copilot, which is a IA powered code autocomplete tool, which can process an idea written in natural language an then convert it to code, which allow to boost the creativity of those who dont know to code.
 
 
 ## Characteristics of big data and cloud computing
