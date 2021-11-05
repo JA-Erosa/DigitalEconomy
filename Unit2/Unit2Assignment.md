@@ -48,7 +48,7 @@ It is true that today the economy has evolved along with technology, that is, to
 - [Central bank digital currencies, cryptocurrencies, and privacy](https://voxeu.org/article/central-bank-digital-currencies-cryptocurrencies-and-privacy)
 - [Why Governments Are Wary of Bitcoin](https://www.investopedia.com/articles/forex/042015/why-governments-are-afraid-bitcoin.asp)
 
-
-JORGE EROSA
-JACK ROBLES
-JORGE AQUE
+# TEAM MEMBERS
+- JORGE EROSA
+- JACK ROBLES
+- JORGE AQUE
