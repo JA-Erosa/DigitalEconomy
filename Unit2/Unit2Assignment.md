@@ -34,6 +34,12 @@ Cloud computing is the delivery of different services hosted on the interntent, 
 
 Big data is data that contains a greater variety and that is presented in increasing volumes and at greater speed. This is also known as "the three Vs". In other words, big data is made up of larger and more complex data sets, especially from new data sources. These data sets are so voluminous that conventional data processing software simply cannot handle them. However, these massive volumes of data can be used to address business problems that could not have been solved before. Security, privacy, scalability, data governance policies, data heterogeneity, disaster recovery are some of the dilemas that big data presents.
 
+The three V's refers to Volume, Velocity and Variety.
+
+- Volume: The density of data, how much data there is.
+- Velocity: The speed to which the data is created and recieved.
+- Variety:  The diversity of types on the data.
+
 ## What is Blockchain?
 Blockchain is basically like a huge data ledger. Meaning it keeps track of data transactions all over the place. It’s most known for its use in cryptocurrency systems since the whole point of it is to have a decentralized transaction record. The main difference with a “normal” database is that the information is managed by blocks, and they can be chained together, so if you want to add data, you just add a block on top of the previous one. So, instead of tables, you have blocks put together.
 ## What is Hyperledger?
