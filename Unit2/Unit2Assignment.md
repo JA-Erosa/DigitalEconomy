@@ -47,3 +47,8 @@ It is true that today the economy has evolved along with technology, that is, to
 - [Bitcoin en El Salvador](https://es.digitaltrends.com/tendencias/moneda-digital-dinero-virtual-criptomoneda/)
 - [Central bank digital currencies, cryptocurrencies, and privacy](https://voxeu.org/article/central-bank-digital-currencies-cryptocurrencies-and-privacy)
 - [Why Governments Are Wary of Bitcoin](https://www.investopedia.com/articles/forex/042015/why-governments-are-afraid-bitcoin.asp)
+
+
+JORGE EROSA
+JACK ROBLES
+JORGE AQUE
