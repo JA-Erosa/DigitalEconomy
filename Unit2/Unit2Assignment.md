@@ -23,4 +23,5 @@
 ## References
 - [Blockchain Automation Framework](https://blockchain-automation-framework.readthedocs.io/en/latest/introduction.html)
 - [Hyperledger Research](https://www.hyperledger.org/learn/research)
+- [Automatic Relational Data Augmentation for Machine Learning](https://arxiv.org/pdf/2003.09758.pdf)
 - []()
