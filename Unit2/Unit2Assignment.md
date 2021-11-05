@@ -20,6 +20,13 @@
 ## Financial transactions
 A transaction is an operation carried out between two parties, which involves the exchange between a good or service and a certain amount. Therefore, the concept of transaction is applied for economic operations in which money is used to pay for a purchased product. In this sense, the meaning of the concept is reduced to the transaction between buyer and seller where money is somehow involved. When we talk about financial transactions at the business level, we refer to the change in the value of the assets, liabilities or capital stock of an entity. Basically this term has a great impact on the economy since it is what moves it, without transactions there is no economy, transaction as mentioned above, means exchange, which is what makes the economy move through exchange of goods.
 ## Digital currencies
+This is a type of currency in digital form which has been issued by a central bank and which is a digital representation of fiat money. It therefore has the property of being a form of money that is regulated by a state or by a union of states.
+Advantages
+•	Creation of more efficient payment systems, and issuance and control of fund issuance mechanisms. Elements that the current economic system does not allow to carry out.
+•	They could bring greater financial inclusion for the users of a state. 
+•	It would bring greater competition between payment companies, allow commission adjustments and downward rates.
+They are a means of exchange that can only be arranged and used electronically, through wallets (e-Wallet) connected to an internet network. A digital currency can exist in a decentralized way or regulated by a central institution.
+
 ## Technical obstacles and political challenges
 ## References
 - [Blockchain Automation Framework](https://blockchain-automation-framework.readthedocs.io/en/latest/introduction.html)
