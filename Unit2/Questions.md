@@ -16,25 +16,25 @@
 #### Do you think blockchain and everything that revolves around it (Hyperledger, Cryptocurrency, among others) will play a big part in politics? Or will its impact be kept in the economy realm? (Erosa)
 - Discussion
 
-### What would be a basic example of a financial transaction.(jaque)
+#### What would be a basic example of a financial transaction.(jaque)
 - It can be any purchase example.
 
-### When do you think the term "financial transaction" was born?(jaque)
+#### When do you think the term "financial transaction" was born?(jaque)
 - Disccussion. The answer can be varied but basically transactions have always existed when changes of goods are made.
 
-### What are some of the benefits of digital currencies? jaque
+#### What are some of the benefits of digital currencies? jaque
 - Creation of more efficient payment systems.
 They could bring greater financial inclusion for the users of a state.
 ETC.
 
-### What are the ways in which a digital currency can exist?(jaque)
+#### What are the ways in which a digital currency can exist?(jaque)
 - A digital currency can exist in a decentralized way or regulated by a central institution.
 
-### What is the difference between a digital currency such as e-wallet and bitcoin.(jaque)
+#### What is the difference between a digital currency such as e-wallet and bitcoin.(jaque)
 - The only difference is who supports it, a digital currency e-wallet is backed by a bank while bitcoin has no one for support.
 
-### What are some obstacles you have heard about digital currency?(jaque)
+#### What are some obstacles you have heard about digital currency?(jaque)
 - Discussion.
 
-### Do you think that one day cash will be replaced by digital currencies?(jaque)
+#### Do you think that one day cash will be replaced by digital currencies?(jaque)
 - Discussion.
