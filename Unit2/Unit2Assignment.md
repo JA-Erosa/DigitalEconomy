@@ -8,7 +8,8 @@
 - [Financial transactions](#Financial-transactions)
 - [Digital currencies](#Digital-currencies)
 - [Technical obstacles and political challenges](#Technical-obstacles-and-political-challenges)
-
+- [References](#References)
+- 
 ## Trends in AI uses
 ## MLA in work automation and augmentation
 ## Characteristics of big data and cloud computing
@@ -18,3 +19,5 @@
 ## Financial transactions
 ## Digital currencies
 ## Technical obstacles and political challenges
+## References
+- [https://blockchain-automation-framework.readthedocs.io/en/latest/introduction.html](a)
