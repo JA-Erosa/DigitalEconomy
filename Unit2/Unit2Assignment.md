@@ -25,6 +25,7 @@ This is a type of currency in digital form which has been issued by a central ba
 - Creation of more efficient payment systems, and issuance and control of fund issuance mechanisms. Elements that the current economic system does not allow to carry out.
 - They could bring greater financial inclusion for the users of a state. 
 - It would bring greater competition between payment companies, allow commission adjustments and downward rates.
+
 They are a means of exchange that can only be arranged and used electronically, through wallets (e-Wallet) connected to an internet network. A digital currency can exist in a decentralized way or regulated by a central institution.
 
 ## Technical obstacles and political challenges
