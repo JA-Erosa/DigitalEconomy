@@ -15,10 +15,15 @@
 Augmentation refers to the idea of boosting our skills with the help of an IA. Companies had been investing on tools of the sort, with the objective of making more efficient the job of their employees. Examples of these IA augmentation tools are engineering tools that can predict when a machine will be need repaired; or also tools as the github copilot.
 
 ### Cybersecurity
+Hack and cybercrime inevitably become more of a problem, as every connected device you add to a network is inevitably a potential point-of-failure that an attacker could use against you. This is where AI can play a role, though. By analyzing network traffic and learning to recognize patterns that suggest nefarious intentions, smart algorithms are increasingly playing a role in keeping us safe.
 
 ### IA driving
+Cars are one of the most dangerous means of transport, given the human error and imprudence. Therefore, the has been an increasing effort to push autonomous vehicles, which are able to decide and drive better than a human. Examples of those are the google taxis and the Tesla cars. 
 
 ### Language modeling
+The idea of giving machine the capabilities of processing our language in a natural way, is one of the objectives that are being trending in the IA field. 
+We have recently seen the release of GPT-3 by OpenAI, the most advanced language model ever created, consisting of around 175 billion parameters variables and datapoints that machines can use to process language.
+
 
 ## MLA in work automation and augmentation
 ## Characteristics of big data and cloud computing
