@@ -63,3 +63,19 @@ data and information assets.
 
 ### This type of specialist is needed occasionally because of the peculiar data management requirements. (Erosa)
 - Hardware Specialist.
+
+### What is data governance? (Jack)
+Data Governance is the exercise of authority and control (planning,
+monitoring and enforcement) through data asset management. The function of
+Data Governance guides how all other data management functions are carried out
+data.
+
+### What is IT government? (Jack)
+The IT government takes the
+decisions about IT investments, IT application portfolio, and IT portfolio
+IT projects. IT governance aligns with IT strategies and investments and
+business strategies.
+
+### What is a data steward? (Jack)
+A data steward is a business leader and / or recognized expert in the field
+designated as responsible for these functions
