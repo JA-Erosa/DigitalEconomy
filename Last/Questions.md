@@ -49,5 +49,11 @@ data and information assets.
 ### What would you say is the main goal of data management?(Erosa)
 - Answers will vary, the student should be able to revolve around satisfying the needs regarding information quality. Could go into data integrity.
 
-### Regarding data management functions, there seem to be 10. Do you agree with each and every single one of the functions? Would you add one, delete one or merge some?
+### Regarding data management functions, there seem to be 10. Do you agree with each and every single one of the functions? Would you add one, delete one or merge some? Explain.
 - Open answer.
+
+### Do you think companies should focus on every aspect of this so-called functions? Or is it better to prioritize depending on the company or project?(Erosa)
+- Open answer.
+
+### According to their activities, which would be the most important function regarding data management?(Erosa)
+- Open answer, bonus points for metadata (shows that they care about coworkers LOL)
