@@ -36,3 +36,14 @@ There are many security strategies and regulations depending on what is the thin
 For example, hardware security requires security of the installation, and strict control of who are able to operate that hardware, also some other measures against natural phenomena have to be taken into account.
 As for software concerns, there are methodologies of method that should be implemented on applications for being protected so they avoid vulnerabilities and if any vulnerability, do not expose them. 
 For the user, privacy is an important topic, which lead to the data anonymization, which is the process of anonymization personal information, to make sure the data of people is private. 
+
+
+## Identify the regulatory framework and institutions that affect the digital economy.
+Regulatory frameworks refer to the strategies, rules and the division of power distributed among many institutions, with the idea of regulating, in this case, the digital economy. In the specific case of digital economy, the old institutions and policies designed by a less competitive era, are now incapable leading to an economic welfare; therefore, new policies and more modernized institutions are takin the lead on those frameworks.
+The GSAM, is a global specialist firm which is business is applying economic and financial principles to complex business challenges, creating a new framework to be according to modern times.
+
+The main objective of the of this framework, is to identify and try to cushion, if possible, market our comes and shortages, leading to an economic welfare. Three key principles are:
+
+- Regulations should be redesigned around a functionality-based approach.
+- Regulation should be reduced or eliminated when justified by market changes, and for areas where regulation is still needed, static, prescriptive regimes should be replaced with dynamic regulation.
+- Regulators should take a bottom-up approach that includes re-examining all aspects of legacy policies.
