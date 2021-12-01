@@ -57,3 +57,9 @@ data and information assets.
 
 ### According to their activities, which would be the most important function regarding data management?(Erosa)
 - Open answer, bonus points for metadata (shows that they care about coworkers LOL)
+
+### Briefly explain the difference between participants and shareholders.(Erosa)
+- Students should be able to understand participants are the ones involved on the development and could be held accountable, shareholders would be the clients.
+
+### This type of specialist is needed occasionally because of the peculiar data management requirements. (Erosa)
+- Hardware Specialist.
