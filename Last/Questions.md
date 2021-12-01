@@ -45,3 +45,9 @@ data and information assets.
 
 ### How would you describe data management as a high-end business process?(Erosa)
 - Answers will vary, students should based their ideas upon planning and execution of policies, projects and best practices to improve data value.
+
+### What would you say is the main goal of data management?(Erosa)
+- Answers will vary, the student should be able to revolve around satisfying the needs regarding information quality. Could go into data integrity.
+
+### Regarding data management functions, there seem to be 10. Do you agree with each and every single one of the functions? Would you add one, delete one or merge some?
+- Open answer.
