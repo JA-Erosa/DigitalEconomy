@@ -42,3 +42,6 @@ data and information assets.
 - Business intelligence management and data storage
 - Content and Documentation Management
 - Metadata management
+
+### How would you describe data management as a high-end business process?(Erosa)
+- Answers will vary, students should based their ideas upon planning and execution of policies, projects and best practices to improve data value.
