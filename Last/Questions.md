@@ -79,3 +79,46 @@ business strategies.
 ### What is a data steward? (Jack)
 A data steward is a business leader and / or recognized expert in the field
 designated as responsible for these functions
+
+### What is data strategy? (Jack)
+A data strategy is a strategy data management program
+in a plan to maintain and improve data quality, integrity, security, and
+the access.
+### What are some components for a data strategy? (Jack)
+- A compelling vision for data management.
+- A data management business case, with selected examples.
+- Basic principles, values and management perspectives.
+- The mission and long-term directional objectives of data management.
+- Data management success management measures.
+
+### What are data policies? (Jack)
+Brief statements of management and the fundamental rules governing the creation, acquisition, integrity, security, quality and use of data and information. Data policies are more necessary, global and
+critical to business than detailed data standards
+
+### What are some issues that can be addressed with data policy? (Jack)
+- Data development activities within the SDLC and others that have to do with
+with data modeling.
+- The development and use of data architecture.
+- Expectations for data quality, roles and responsibilities (including the
+metadata quality).
+- Database recovery and data retention.
+- Access and use of data of external origin.
+- The exchange of data internally and externally.
+- Data storage and business intelligence policies.
+
+### What is data architecture? (Jack)
+They are the models, policies, rules and standards that tell us how we have to store, organize and integrate the data that a company collects in order to make it usable and useful.
+
+### What are some problems or issues in which data governance is useful in solving such problems? (Jack)
+- Data quality problems.
+- Data naming and definition conflicts.
+- Conflicts of business rules and clarifications.
+- Data security, privacy and confidentiality.
+- Regulatory non-compliance issues Non-compliance issues
+(policies, standards, architecture and procedures).
+- Conflict of policies, standards, architecture and procedures.
+- Conflict of interest in the data and information of the stakeholders
+
+### What is the Summary of the Data Governance Process? (Jack)
+Deliverables, responsible roles, approved roles, and contributing roles are
+shown for each activity in the Government Data function
