@@ -7,7 +7,7 @@
 - JORGE AQUE
 
 
-
+# Sections
 - [Trends in AI uses](#Trends-in-AI-uses)
 - [MLA in work automation and augmentation](#MLA-in-work-automation-and-augmentation)
 - [Characteristics of big data and cloud computing](#Characteristics-of-big-data-and-cloud-computing)
