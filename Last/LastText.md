@@ -49,6 +49,9 @@ The main objective of the of this framework, is to identify and try to cushion, 
 - Regulators should take a bottom-up approach that includes re-examining all aspects of legacy policies.
 
 
+-------------------------------
+# QUESTIONS
+
 ### Why can data be considered a business asset? (AQUE)
 This is because the data is of great importance for the company to make decisions about the
 your market (one of many possible answers)
@@ -61,8 +64,6 @@ related.
 - The period of time represented by the data.
 - The importance of the data for a specific use.
 
--------------------------------
-# QUESTIONS
 
 ### What is knowledge?(AQUE)
 Knowledge is information in perspective, integrated from a point
