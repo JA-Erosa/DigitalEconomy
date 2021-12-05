@@ -1,5 +1,13 @@
 # Unit 2 Assignment
 
+
+# TEAM MEMBERS
+- JORGE EROSA
+- JACK ROBLES
+- JORGE AQUE
+
+
+
 - [Trends in AI uses](#Trends-in-AI-uses)
 - [MLA in work automation and augmentation](#MLA-in-work-automation-and-augmentation)
 - [Characteristics of big data and cloud computing](#Characteristics-of-big-data-and-cloud-computing)
@@ -58,6 +66,51 @@ They are a means of exchange that can only be arranged and used electronically, 
 
 ## Technical obstacles and political challenges
 It is true that today the economy has evolved along with technology, that is, today it is very common to see more payments digitally than in cash and this is thanks to the emerging exchange of digital currencies, as we have already seen, it is basically a currency that is backed by a bank and today in our own phones we have those currencies. All this has emerged in recent years but it also has several obstacles, for example, lately since it is all digital, currencies are more likely to be methods of these, “Scammers use Google ads to steal thousands of dollars of wallets ”, on the other hand there are countries that seek“ legal support ”to convert digital currencies into a payment method if, like the savior who recently chose to make bitcoin their national currency, there are people who are already starting to prefer this type of currency to cash, such as payment of wages through bitcoins. It must be emphasized that bitcoin is a digital currency, only that it is not regulated or backed by a bank. In summary, the digital currency and everything related to the digital economy has many blocks and covers many issues in politics since it is a transition of everything we know to the cloud and more obstacles and more changes will arise in the countries.
+
+
+# QUESTIONS
+
+#### How would you describe Blockchain to someone who isn't used to technology or data storage terms? (Erosa)
+- Answers will vary, but it should be some sort of set of records where you store transactions. Not a single, but multiple, hence emphasizing the decentralized nature.
+
+#### What would you say is the difference between Blockchain and a regular database? (Erosa)
+- Answers will vary, but it should include two main things, the difference between tables and block strings, as well as the fact that its multiple storage sources, not just one.
+
+#### How would you explain Hyperledger to someone who isn't used to technology or blockchain? (Erosa)
+- Answers will vary, they don't have to go into detail about blockchain, but mainly just describe it as a playground that allows its users to build up blockchain technology.
+
+#### Why do you think hyperledger chose not to pursue their own cryptocurrency? (Erosa)
+- Discussion
+
+#### Why did the Hyperledger "effort" start? (Erosa)
+- Answers will vary, at some point there should be mention of how enthusiast fell in love of the "future" and wanted people and businesses to have an easier time getting into it and incorporating it into their own projects.
+
+#### Do you think blockchain and everything that revolves around it (Hyperledger, Cryptocurrency, among others) will play a big part in politics? Or will its impact be kept in the economy realm? (Erosa)
+- Discussion
+
+#### What would be a basic example of a financial transaction.(jaque)
+- It can be any purchase example.
+
+#### When do you think the term "financial transaction" was born?(jaque)
+- Disccussion. The answer can be varied but basically transactions have always existed when changes of goods are made.
+
+#### What are some of the benefits of digital currencies? (jaque)
+- Creation of more efficient payment systems.
+They could bring greater financial inclusion for the users of a state.
+ETC.
+
+#### What are the ways in which a digital currency can exist?(jaque)
+- A digital currency can exist in a decentralized way or regulated by a central institution.
+
+#### What is the difference between a digital currency such as e-wallet and bitcoin.(jaque)
+- The only difference is who supports it, a digital currency e-wallet is backed by a bank while bitcoin has no one for support.
+
+#### What are some obstacles you have heard about digital currency?(jaque)
+- Discussion.
+
+#### Do you think that one day cash will be replaced by digital currencies?(jaque)
+- Discussion.
+
 ## References
 - [Blockchain Automation Framework](https://blockchain-automation-framework.readthedocs.io/en/latest/introduction.html)
 - [Hyperledger Research](https://www.hyperledger.org/learn/research)
@@ -66,7 +119,3 @@ It is true that today the economy has evolved along with technology, that is, to
 - [Central bank digital currencies, cryptocurrencies, and privacy](https://voxeu.org/article/central-bank-digital-currencies-cryptocurrencies-and-privacy)
 - [Why Governments Are Wary of Bitcoin](https://www.investopedia.com/articles/forex/042015/why-governments-are-afraid-bitcoin.asp)
 
-# TEAM MEMBERS
-- JORGE EROSA
-- JACK ROBLES
-- JORGE AQUE
