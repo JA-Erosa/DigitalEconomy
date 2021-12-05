@@ -61,6 +61,9 @@ related.
 - The period of time represented by the data.
 - The importance of the data for a specific use.
 
+-------------------------------
+# QUESTIONS
+
 ### What is knowledge?(AQUE)
 Knowledge is information in perspective, integrated from a point
 based on the recognition and interpretation of patterns, such as
